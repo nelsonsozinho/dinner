@@ -1,4 +1,4 @@
-dinnet
+dinner
 ======
 
 Examples to philosophers dinner
